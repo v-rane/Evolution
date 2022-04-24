@@ -1,0 +1,8 @@
+C:\Users\Varsha Rane\source\repos\ConsoleApp1\Evoluation\bin\Debug\Evoluation.exe.config
+C:\Users\Varsha Rane\source\repos\ConsoleApp1\Evoluation\bin\Debug\Evoluation.exe
+C:\Users\Varsha Rane\source\repos\ConsoleApp1\Evoluation\bin\Debug\Evoluation.pdb
+C:\Users\Varsha Rane\source\repos\ConsoleApp1\Evoluation\obj\Debug\Evoluation.csproj.AssemblyReference.cache
+C:\Users\Varsha Rane\source\repos\ConsoleApp1\Evoluation\obj\Debug\Evoluation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Varsha Rane\source\repos\ConsoleApp1\Evoluation\obj\Debug\Evoluation.csproj.CoreCompileInputs.cache
+C:\Users\Varsha Rane\source\repos\ConsoleApp1\Evoluation\obj\Debug\Evoluation.exe
+C:\Users\Varsha Rane\source\repos\ConsoleApp1\Evoluation\obj\Debug\Evoluation.pdb
